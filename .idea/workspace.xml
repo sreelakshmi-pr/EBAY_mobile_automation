@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87abf479-5032-4c8b-9662-e893264ace4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/CategoryListPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/CategoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/ProductListingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/CategoryListSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/CategorySteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/HomeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/ProductListingSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/SearchSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utils/CucumberReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utils/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utils/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/BookSearching.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ClearSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ProductFilter.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lx9hq3I2X1EPa3s2ECMrZTdLqz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: ProductFilter.executor": "Run",
+    "Cucumber Java.Feature: Sorting.executor": "Run",
+    "Cucumber Java.Scenario: Sorting with some filtering price Low to high.executor": "Run",
+    "Cucumber Java.Scenario: Sorting with some filtering price high to low.executor": "Run",
+    "Cucumber Java.Scenario: Verify clear search history works.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can apply filter using condition.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can apply filter using shipping option.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can login with valid credentials.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can search for Books.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "Maven.Mobile_Automation [clean].executor": "Run",
+    "Maven.Mobile_Automation [install].executor": "Run",
+    "Maven.Mobile_Automation_Advanced_Exam [clean].executor": "Run",
+    "Maven.Mobile_Automation_Advanced_Exam [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/UST_java/Mobile_Automation_Advanced_Exam/src/test/resources/Apk",
+    "onboarding.tips.debug.path": "C:/UST_java/Mobile_Automation_Advanced_Exam/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\UST_java\Mobile_Automation_Advanced_Exam\src\test\resources\Apk" />
+      <recent name="C:\UST_java\Mobile_Automation_Advanced_Exam\src\test\resources\features" />
+      <recent name="C:\UST_java\Mobile_Automation_Advanced_Exam\src\test\java\com\automation\steps" />
+      <recent name="C:\UST_java\Mobile_Automation_Advanced_Exam\src\test\java\com\automation\pages" />
+      <recent name="C:\UST_java\Mobile_Automation_Advanced_Exam\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.automation.pages" />
+      <recent name="com.automation.steps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Verify user can search for Books">
+    <configuration name="Feature: ProductFilter" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ProductFilter.feature" />
+      <option name="GLUE" value="com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Mobile_Automation_Advanced_Exam" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: ProductFilter" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify user can apply filter using condition" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ProductFilter.feature" />
+      <option name="GLUE" value="com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Mobile_Automation_Advanced_Exam" />
+      <option name="NAME_FILTER" value="^Verify user can apply filter using condition$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify user can apply filter using condition$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify user can apply filter using condition" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify user can apply filter using shipping option" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ProductFilter.feature" />
+      <option name="GLUE" value="com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Mobile_Automation_Advanced_Exam" />
+      <option name="NAME_FILTER" value="^Verify user can apply filter using shipping option$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify user can apply filter using shipping option$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify user can apply filter using shipping option" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify user can search for Books" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/BookSearching.feature" />
+      <option name="GLUE" value="com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Mobile_Automation_Advanced_Exam" />
+      <option name="NAME_FILTER" value="^Verify user can search for Books$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify user can search for Books$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify user can search for Books" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mobile_Automation_Advanced_Exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Verify user can search for Books" />
+        <item itemvalue="Cucumber Java.Feature: ProductFilter" />
+        <item itemvalue="Cucumber Java.Scenario: Verify user can apply filter using condition" />
+        <item itemvalue="Cucumber Java.Scenario: Verify user can apply filter using shipping option" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87abf479-5032-4c8b-9662-e893264ace4d" name="Changes" comment="" />
+      <created>1726110985648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726110985648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
